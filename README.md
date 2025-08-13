@@ -31,7 +31,10 @@ python.py
 ---
 
 ## 📋 How It Works
-1. The user runs the Python file, ==> by ```bash python python.py
+1. The user runs the Python file, ==> by 
+```
+bash python python.py
+```
 2. The program asks for:
    - Original price of the item.
    - Discount percentage.
@@ -48,4 +51,4 @@ Run the program in a terminal or Python IDE:
 
 ```bash
 python python.py
-
+        ```
