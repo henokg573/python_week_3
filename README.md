@@ -32,8 +32,8 @@ python.py
 
 ## 📋 How It Works
 1. The user runs the Python file, ==> by 
-```
-bash python python.py
+```bash 
+python python.py
 ```
 2. The program asks for:
    - Original price of the item.
