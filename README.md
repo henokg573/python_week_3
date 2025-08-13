@@ -52,3 +52,10 @@ Run the program in a terminal or Python IDE:
 ```bash
 python python.py
         ```
+Example:
+```bash
+python python.py
+```
+Enter the original price of the item: 200
+Enter the discount percentage: 25
+Final price after 25% discount: 150.00
