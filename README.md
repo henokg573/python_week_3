@@ -58,5 +58,9 @@ python python.py
 ```
 
 Enter the original price of the item: 200.
+
+
 Enter the discount percentage: 25.
+
+
 Final price after 25% discount: 150.00.
